@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761894033314",
+    "project_id": "grass-hugs",
+    "storage_bucket": "grass-hugs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761894033314:android:6f756bb59d7896a17344fb",
+        "android_client_info": {
+          "package_name": "com.grass.hugs.grass_hugs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Vw3lnOCJwOTtrzm1Sz649U3hjaK8_wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
